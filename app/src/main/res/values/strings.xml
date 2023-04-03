@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile-Mahasiswa-app</string>
+    <string name="address">Brajan,Tamantirto Kasihan Bantul</string>
+    <string name="email">Zeinnur@sudents.amikom.ac.id</string>
+    <string name="prodi">D3 Manajemen Informatika</string>
+    <string name="gender">Laki-laki</string>
+    <string name="angkatan">2022</string>
+    <string name="sekolah_asal">SMKN 3 Kasihan</string>
+</resources>
